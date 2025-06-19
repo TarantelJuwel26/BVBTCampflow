@@ -1,0 +1,5 @@
+client_secret_583587874433-vlfkr6glpglqthjifkfjpkrv5o29dncu.apps.googleusercontent.com.json
+.env
+.venv/
+.~lock.campflow.csv#
+campflow.csv
